@@ -11,7 +11,7 @@ I'm a software engineer in the Bay Area. I'm also interested in cyber security, 
 * 🌍  I'm based in Sunnyvale, CA
 * 🌱 I’m currently learning **AWS**, **Azure**, **DataDog**, **Kubernetes**, and **Splunk**
 * 🖥️  See my portfolio at [Portfolio](http://haoxugt.github.io/)
-* 📚  See my Resume at [Resume](https://drive.google.com/file/d/1OWIVfSDJw3AygSvvldOw2WGjufNQY6r9/view)
+* 📚  See my Resume at [Resume](https://drive.google.com/file/d/1ywNj1eMmQR4ozTaP2yXJ1FzUtv7U_iA7/view)
 * ✉️  You can contact me at [haoxugt@gmail.com](mailto:haoxugt@gmail.com)
 
 ### Skills
