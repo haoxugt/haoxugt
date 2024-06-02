@@ -9,7 +9,7 @@ Software engineer
 I'm a software engineer in the Bay Area. I'm also interested in cyber security, AI, machine learning, and financial technology.
 
 * 🌍  I'm based in Sunnyvale, CA
-* 🌱 I’m currently learning **AWS**, **Azure**, **DataDog**, and **Splunk**
+* 🌱 I’m currently learning **AWS**, **Azure**, **DataDog**, **Kubernetes**, and **Splunk**
 * 🖥️  See my portfolio at [Portfolio](http://haoxugt.github.io/)
 * ✉️  You can contact me at [haoxugt@gmail.com](mailto:haoxugt@gmail.com)
 
