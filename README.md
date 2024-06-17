@@ -8,11 +8,11 @@ Software engineer
 
 I'm a software engineer in the Bay Area. I'm also interested in cyber security, AI, machine learning, and financial technology.
 
-* 🌍  I'm based in Sunnyvale, CA
-* 📚 I’m currently learning **AWS**, **Spring**, **Kubernetes**, and **Nginx**
-* 🖥️  See my portfolio at [Portfolio](http://haoxugt.github.io/)
-* 📋  See my Resume at [Resume](https://drive.google.com/file/d/1ywNj1eMmQR4ozTaP2yXJ1FzUtv7U_iA7/view)
-* ✉️  You can contact me at [haoxugt@gmail.com](mailto:haoxugt@gmail.com)
+* 🌍  I'm based in Sunnyvale, CA.
+* 📚 I’m currently learning **AWS**, **Spring**, **Kubernetes**, and **Nginx**.
+* 🖥️  See my portfolio at [Portfolio](http://haoxugt.github.io/).
+* 📋  See my Resume at [Resume](https://drive.google.com/file/d/1ywNj1eMmQR4ozTaP2yXJ1FzUtv7U_iA7/view).
+* ✉️  You can contact me at [haoxugt@gmail.com](mailto:haoxugt@gmail.com).
 
 ### Skills
 
